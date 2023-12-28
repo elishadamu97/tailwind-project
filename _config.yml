@@ -4,15 +4,6 @@ title: "" # the name of your site, e.g. ACME Corp.
 
 
 
-
-
-
-
-
-
-
-
-
 plugins:
   - jekyll-postcss
 
